@@ -1,0 +1,133 @@
+model HTML driver EMF {
+nsuri = "nsURI"
+};
+
+model XML driver EMF {
+nsuri = "http://www.xml"
+};
+
+pre {"HTML2XML transformation starts". println();}
+
+rule HTML1 
+	transform
+		html : HTML!HTML
+	to
+		xml : XML!Root {
+			xml.name = 'html';
+			xml.children := html.head.equivalents();
+			xml.children = html.body.equivalents();
+		}
+		
+rule HTMLElement1 
+	transform
+		html : HTML!HTMLElement
+	to
+		xml : XML!Element {
+			xml.children = html.children;
+		}
+	
+rule HEAD1 
+	transform
+		html : HTML!HEAD 
+	to
+		xml : XML!Element extends HTMLElement1 {
+			xml.name = 'head';
+			xml.children = html.headElements;
+		}
+		
+@abstract 
+rule HEADElement1 
+	transform
+		html : HTML!HEADElement
+	to
+		xml : XML!Element extends HTMLElement1 {}
+	
+
+
+rule TITLE1 
+	transform
+		html : HTML!TITLE
+	to
+		xml : XML!Element extends HEADElement1 {
+			xml.name = 'title';
+			xml.children = this.Text(html.value);
+		}
+		
+rule BODY1 
+	transform
+		html : HTML!BODY
+	to
+		xml : XML!Element extends HTMLElement1 {
+			xml.name = 'body';
+			xml.children = html.bodyElements;
+		}
+		
+@abstract 
+rule BODYElement1 
+	transform
+		html : HTML!BODYElement
+	to
+		xml : XML!Element extends HTMLElement1 {}
+		
+@abstract 
+rule TABLEElement1
+	transform
+		html : HTML!TABLEElement
+	to
+		xml : XML!Element extends BODYElement1 {}
+
+	
+rule TABLE1 
+	transform
+		html : HTML!TABLE
+	to
+		xml : XML!Element  extends TABLEElement1 {
+			xml.name = 'table';
+			xml.children := this.Attribute('border',
+				(not html.border.isUndefined() ? html.border : '0'));
+			xml.children ; html.trs;
+		}
+
+rule TR1 
+	transform
+		html : HTML!TR
+	to
+		xml : XML!Element extends TABLEElement1 {
+			xml.name = 'tr';
+			xml.children = html.tds;
+		}
+
+rule TD1
+	transform
+		html : HTML!TD
+	to
+		xml : XML!Element extends TABLEElement1 {		
+			xml.name = 'td';
+			xml.children = this.Text(html.value);
+		if (not html.align.oclIsUndefined()) {
+			xml.children <- this.Attribute('align', html.align);
+		}
+	}
+	
+rule TH1
+	transform
+		html : HTML!TH
+	to
+		xml : XML!Element extends TD1 {
+			name = 'th';
+		}
+		
+operation XML!Attribute Attribute(attrName : String, attrValue : String) : XML!Attribute
+	{
+			XML!Attribute.name = attrName;
+			XML!Attribute.value = attrValue;
+	}
+	
+operation XML!Text Text(value : String) : XML!Text
+	{
+		value = (not value.isUndefined() ? value : '');
+
+	}
+
+
+post {"HTML2XML transformation ends". println();}
