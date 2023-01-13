@@ -1,0 +1,1782 @@
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.514 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.474 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.434 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.467 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.504 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.396 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.405 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.167 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.168 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.086 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.17 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.154 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.212 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.085 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.161 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.086 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.166 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.087 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.166 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.365 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.448 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.173 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.261 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.084 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.164 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.089 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.181 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.169 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.264 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.088 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.168 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.083 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.157 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.25 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.648 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.092 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.186 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.181 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.25 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.085 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.173 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.083 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.164 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.167 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.087 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.169 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.167 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.252 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.078 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.164 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.088 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.17 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.162 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.247 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.081 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.164 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.087 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.17 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.169 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.251 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.081 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.166 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.333 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.419 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.265 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.328 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.081 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.161 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.167 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.299 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.091 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.18 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.168 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.241 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.171 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.086 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.167 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.093 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.175 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.166 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.168 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.254 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.086 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.166 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.355 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.419 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.083 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.165 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.092 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.162 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.083 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.188 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.529 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.524 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.397 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.403 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.236 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.32 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.078 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.161 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.165 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.08 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.162 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.251 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.332 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.251 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.321 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.079 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.166 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.315 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.402 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.078 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.162 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.078 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.159 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.083 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.165 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.166 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.082 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.165 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\Table.ecore is 0.2857142857142857
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+
+Maximum coverage of a MT metamodels\Table.ecore -> metamodels\HTML.ecore is 0.6666666666666666
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\HTML.ecore -> metamodels\XML.ecore is 0.07608695652173914
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.0033053648614289346
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.33 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'NamedElement'
+Java2Table.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\Table.ecore= 43
+
+Expecting @ at index 0 of 'NamedElement'
+Expecting @ at index 0 of 'HEAD'
+Table2HTML.etl
+Total expressions/operators used in the transformation metamodels\Table.ecore -> metamodels\HTML.ecore= 66
+
+Expecting @ at index 0 of 'HEAD'
+Expecting @ at index 0 of 'Element'
+HTML2XML.etl
+Total expressions/operators used in the transformation metamodels\HTML.ecore -> metamodels\XML.ecore= 74
+
+Minimum structural features of the chain: 234
+Time taken for complexity in chain  is 0.397 seconds.
+infoLoss: 3.2
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.16 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.24 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.159 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.238 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.08 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.156 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.08 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.249 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\Ecore.ecore is 0.5789473684210527
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\Ecore.ecore -> metamodels\JavaSource.ecore is 0.096
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.013233082706766918
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.24 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'EModelElement'
+KM32EMF.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\Ecore.ecore= 182
+
+Expecting @ at index 0 of 'EModelElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+EMF2Java.etl
+Total expressions/operators used in the transformation metamodels\Ecore.ecore -> metamodels\JavaSource.ecore= 76
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 271
+Time taken for complexity in chain  is 0.33 seconds.
+infoLoss: 2.4000000000000004
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\JavaSource.ecore is 0.22807017543859648
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\JavaSource.ecore -> metamodels\XML.ecore is 0.23809523809523808
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.05430242272347535
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.239 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'ClassDeclaration'
+km3_2_java.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\JavaSource.ecore= 51
+
+Expecting @ at index 0 of 'ClassDeclaration'
+Expecting @ at index 0 of 'Element'
+Java2XML.etl
+Total expressions/operators used in the transformation metamodels\JavaSource.ecore -> metamodels\XML.ecore= 13
+
+Minimum structural features of the chain: 64
+Time taken for complexity in chain  is 0.235 seconds.
+infoLoss: 1.6
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.081 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.155 seconds.
+infoLoss: 0.8
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+
+Maximum coverage of a MT metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Total coverage of chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.49122807017543857
+
+Time taken for coverage in chain metamodels\KM3.ecore -> metamodels\XML.ecore is 0.08 seconds.
+Expecting @ at index 0 of 'LocatedElement'
+Expecting @ at index 0 of 'Element'
+KM32XML.etl
+Total expressions/operators used in the transformation metamodels\KM3.ecore -> metamodels\XML.ecore= 247
+
+Minimum structural features of the chain: 247
+Time taken for complexity in chain  is 0.156 seconds.
+infoLoss: 0.8
+[00:16:00.954] Run 30 of 30 terminated after 0:00:30.884 (30884 ms).
+[00:16:00.954] Total runtime for 30 seeds: 0:20:05.863 (1205863 ms).
+-------------------------------------------------------
+Analysis
+-------------------------------------------------------
+---------------------------
+Analysis Results
+---------------------------
+NSGAII:
+    Hypervolume: 
+        Aggregate: 0.022087667542899984
+        Min: 0.0204531254443844
+        Median: 0.022087667542899984
+        Max: 0.022087667542899984
+        Mean: 0.022033182806282796
+        StandardDeviation: 2.984251928496056E-4
+        Variance: 8.90575957273243E-8
+        Count: 30
+        Indifferent: [Random, NSGAIII]
+        EffectSize: [
+            - { measure: CohensD, algorithm: Random, effectSize: 0.25819888974716937, magnitude: small }
+            - { measure: CliffsDelta, algorithm: Random, effectSize: 0.03333333333333333, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Random, effectSize: 0.48333333333333334 }
+            - { measure: CohensD, algorithm: NSGAIII, effectSize: 0.7805570081672372, magnitude: medium }
+            - { measure: CliffsDelta, algorithm: NSGAIII, effectSize: 0.30666666666666664, magnitude: small }
+            - { measure: VarghaDelaneyA, algorithm: NSGAIII, effectSize: 0.6533333333333333 }
+        ]
+        Values: [0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.0204531254443844, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984]
+    GenerationalDistance: 
+        Aggregate: 0.0
+        Min: 0.0
+        Median: 0.0
+        Max: 0.05
+        Mean: 0.0016666666666666674
+        StandardDeviation: 0.009128709291752767
+        Variance: 8.33333333333333E-5
+        Count: 30
+        Indifferent: [Random, NSGAIII]
+        EffectSize: [
+            - { measure: CohensD, algorithm: Random, effectSize: 0.2581988897471613, magnitude: small }
+            - { measure: CliffsDelta, algorithm: Random, effectSize: 0.03333333333333333, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Random, effectSize: 0.5166666666666667 }
+            - { measure: CohensD, algorithm: NSGAIII, effectSize: 0.15081478057277967, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: NSGAIII, effectSize: 0.03333333333333333, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: NSGAIII, effectSize: 0.48333333333333334 }
+        ]
+        Values: [0.0, 0.0, 0.0, 0.0, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Random:
+    Hypervolume: 
+        Aggregate: 0.022087667542899984
+        Min: 0.022087667542899984
+        Median: 0.022087667542899984
+        Max: 0.022087667542899984
+        Mean: 0.022087667542899984
+        StandardDeviation: 0.0
+        Variance: 0.0
+        Count: 30
+        Indifferent: [NSGAII, NSGAIII]
+        EffectSize: [
+            - { measure: CohensD, algorithm: NSGAII, effectSize: 0.25819888974716937, magnitude: small }
+            - { measure: CliffsDelta, algorithm: NSGAII, effectSize: 0.03333333333333333, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII, effectSize: 0.5166666666666667 }
+            - { measure: CohensD, algorithm: NSGAIII, effectSize: 0.790940973773146, magnitude: medium }
+            - { measure: CliffsDelta, algorithm: NSGAIII, effectSize: 0.3333333333333333, magnitude: medium }
+            - { measure: VarghaDelaneyA, algorithm: NSGAIII, effectSize: 0.6666666666666666 }
+        ]
+        Values: [0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984]
+    GenerationalDistance: 
+        Aggregate: 0.0
+        Min: 0.0
+        Median: 0.0
+        Max: 0.0
+        Mean: 0.0
+        StandardDeviation: 0.0
+        Variance: 0.0
+        Count: 30
+        Indifferent: [NSGAII, NSGAIII]
+        EffectSize: [
+            - { measure: CohensD, algorithm: NSGAII, effectSize: 0.2581988897471613, magnitude: small }
+            - { measure: CliffsDelta, algorithm: NSGAII, effectSize: 0.03333333333333333, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII, effectSize: 0.48333333333333334 }
+            - { measure: CohensD, algorithm: NSGAIII, effectSize: 0.3716116764786033, magnitude: small }
+            - { measure: CliffsDelta, algorithm: NSGAIII, effectSize: 0.06666666666666667, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: NSGAIII, effectSize: 0.4666666666666667 }
+        ]
+        Values: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+NSGAIII:
+    Hypervolume: 
+        Aggregate: 0.022087667542899984
+        Min: 5.247805552020436E-4
+        Median: 0.022087667542899984
+        Max: 0.022087667542899984
+        Mean: 0.017699109632771902
+        StandardDeviation: 0.00784680313899497
+        Variance: 6.157231950214131E-5
+        Count: 30
+        Indifferent: [NSGAII, Random]
+        EffectSize: [
+            - { measure: CohensD, algorithm: NSGAII, effectSize: 0.7805570081672372, magnitude: medium }
+            - { measure: CliffsDelta, algorithm: NSGAII, effectSize: 0.30666666666666664, magnitude: small }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII, effectSize: 0.3466666666666667 }
+            - { measure: CohensD, algorithm: Random, effectSize: 0.790940973773146, magnitude: medium }
+            - { measure: CliffsDelta, algorithm: Random, effectSize: 0.3333333333333333, magnitude: medium }
+            - { measure: VarghaDelaneyA, algorithm: Random, effectSize: 0.3333333333333333 }
+        ]
+        Values: [0.022087667542899984, 0.022087667542899984, 5.247805552020436E-4, 0.020802979147852427, 0.022087667542899984, 0.015269959061438515, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.0030941573452971526, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.015269959061438515, 0.022087667542899984, 0.022087667542899984, 0.0030941573452971526, 0.021881473572740083, 0.022087667542899984, 0.022087667542899984, 0.0030941573452971526, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.022087667542899984, 0.0030941573452971526, 0.0030941573452971526]
+    GenerationalDistance: 
+        Aggregate: 0.0
+        Min: 0.0
+        Median: 0.0
+        Max: 0.05
+        Mean: 0.0033333333333333335
+        StandardDeviation: 0.01268540658512312
+        Variance: 1.6091954022988503E-4
+        Count: 30
+        Indifferent: [NSGAII, Random]
+        EffectSize: [
+            - { measure: CohensD, algorithm: NSGAII, effectSize: 0.15081478057277967, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: NSGAII, effectSize: 0.03333333333333333, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII, effectSize: 0.5166666666666667 }
+            - { measure: CohensD, algorithm: Random, effectSize: 0.3716116764786033, magnitude: small }
+            - { measure: CliffsDelta, algorithm: Random, effectSize: 0.06666666666666667, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Random, effectSize: 0.5333333333333333 }
+        ]
+        Values: [0.0, 0.0, 0.0, 0.0, 0.0, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---------------------------
+- Save Analysis to 'output/analysis/analysis.txt'
+- Save Indicator BoxPlots to 'output/analysis/'
+-------------------------------------------------------
+Results
+-------------------------------------------------------
+- Save objectives of all algorithms to 'output/objectives/objective_values.txt'
+---------------------------
+Objectives of all algorithms
+---------------------------
+-0.49122807017543857 247.0 1.0 -1.0
+-8.054919908466819E-4 441.0 5.0 -5.0
+-0.05430242272347535 64.0 2.0 -2.0
+-0.013233082706766918 271.0 3.0 -3.0
+-0.0033053648614289346 234.0 4.0 -4.0
+
+- Save solutions of all algorithms to 'output/solutions/objective_values.txt'
+- Save solutions of all algorithms to 'output/solutions/objective_values.txt'
+- Save models of all algorithms to 'output/models/'
+Search finished.
